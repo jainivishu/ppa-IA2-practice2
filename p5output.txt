@@ -1,1 +1,4 @@
-
+gcc -g p5original.c;./a.out
+enter the number12
+enter the number16
+the gcd of 12,16 is 4
